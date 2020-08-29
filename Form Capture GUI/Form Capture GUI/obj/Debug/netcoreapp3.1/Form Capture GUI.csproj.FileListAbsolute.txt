@@ -1,0 +1,17 @@
+C:\Users\Owner\source\repos\Form Capture GUI\Form Capture GUI\bin\Debug\netcoreapp3.1\Form Capture GUI.exe
+C:\Users\Owner\source\repos\Form Capture GUI\Form Capture GUI\bin\Debug\netcoreapp3.1\Form Capture GUI.deps.json
+C:\Users\Owner\source\repos\Form Capture GUI\Form Capture GUI\bin\Debug\netcoreapp3.1\Form Capture GUI.runtimeconfig.json
+C:\Users\Owner\source\repos\Form Capture GUI\Form Capture GUI\bin\Debug\netcoreapp3.1\Form Capture GUI.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Form Capture GUI\Form Capture GUI\bin\Debug\netcoreapp3.1\Form Capture GUI.dll
+C:\Users\Owner\source\repos\Form Capture GUI\Form Capture GUI\bin\Debug\netcoreapp3.1\Form Capture GUI.pdb
+C:\Users\Owner\source\repos\Form Capture GUI\Form Capture GUI\obj\Debug\netcoreapp3.1\Form Capture GUI.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Form Capture GUI\Form Capture GUI\obj\Debug\netcoreapp3.1\Form_Capture_GUI.Form1.resources
+C:\Users\Owner\source\repos\Form Capture GUI\Form Capture GUI\obj\Debug\netcoreapp3.1\Form Capture GUI.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Form Capture GUI\Form Capture GUI\obj\Debug\netcoreapp3.1\Form Capture GUI.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Form Capture GUI\Form Capture GUI\obj\Debug\netcoreapp3.1\Form Capture GUI.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Form Capture GUI\Form Capture GUI\obj\Debug\netcoreapp3.1\Form Capture GUI.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Form Capture GUI\Form Capture GUI\obj\Debug\netcoreapp3.1\Form Capture GUI.dll
+C:\Users\Owner\source\repos\Form Capture GUI\Form Capture GUI\obj\Debug\netcoreapp3.1\Form Capture GUI.pdb
+C:\Users\Owner\source\repos\Form Capture GUI\Form Capture GUI\obj\Debug\netcoreapp3.1\Form Capture GUI.genruntimeconfig.cache
+C:\Users\Owner\source\repos\Form Capture GUI\Form Capture GUI\obj\Debug\netcoreapp3.1\Form_Capture_GUI.FormPopUp.resources
+C:\Users\Owner\source\repos\Form Capture GUI\Form Capture GUI\obj\Debug\netcoreapp3.1\Form_Capture_GUI.CredentialsForm.resources
